@@ -1,0 +1,355 @@
+body {
+  background-color:#f8f5f4;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-size:10px;
+}
+
+.navbar2{
+    width: 100%;
+    background-color: white;
+    overflow: auto;
+    position:relative; 
+    margin-bottom:5px;
+    color:black;
+}
+
+.clickable{
+cursor:pointer;
+}
+
+
+.fa{
+    color:black;
+}
+
+
+.navbar2{
+    overflow: hidden; /* add this to contain floated children */
+    float:center;
+}
+
+.navbarone{
+    float:right;
+}
+
+.navbartwo{
+    float:right;
+}
+
+.navbarthree{
+    float:right;
+}
+
+.navbarfour{
+    float:right;
+}
+
+
+
+.information{
+    text-align:center;
+    font-family:Garamond;
+    font-size:14px;
+    color:grey;
+}
+
+
+.logoimage{
+	margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+ 
+}
+.logo{
+    max-width:25%;
+    width:50px;
+    height:auto;
+    max-height:25%;
+    float:center;
+}
+
+
+.support{
+    text-align:center;
+    color:grey;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+
+}
+
+.support3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:12px;
+}
+
+.support1{
+    text-align:center;
+   
+}
+
+.support1 p{
+    color:grey;
+}
+
+.extrainformation{
+    text-align:center;
+
+}
+
+a:link {
+    color: black;;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:visited {
+    color: black;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 75px;
+    }
+
+input[type=submit] {
+    width: 100%;
+    background-color:black;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    text-align:center;
+    font-size:10px;
+    }
+
+input[type=submit]:hover {
+    background-color: grey;
+    }
+
+.column {
+  float: left;
+  width: 18%;
+  font-size:12px;
+  display:block;
+  margin-left:10px;
+  margin-right:10px;
+}
+
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+    font-size:10px;
+  }
+
+
+.clothingimage {
+  min-height: 100%;
+  min-width: 100%;
+}
+
+.row {
+  display: block;
+  font-size:10px;
+  margin-left:4%;
+  margin-right:2%;
+}
+
+input[type=text], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid rgb(5, 5, 5);
+  border-radius: 4px;
+  box-sizing: border-box;
+  }
+
+  input[type=date], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid rgb(5, 5, 5);
+    border-radius: 4px;
+    box-sizing: border-box;
+    }
+  
+    .redtext{
+        color: #BF2E35;
+      ;
+    }
+
+.price{
+      font-size:12px;
+      text-align:center;
+  }
+
+.originalprice{
+    font-size:10px;
+    text-align:center;
+    color:grey;
+}
+
+.wrapper{
+    overflow:hidden;
+}
+.productinformation{
+    float:left;
+}
+
+.productprice{
+    float:right;
+    overflow:hidden;
+    font-size:10px;
+}
+
+.greyarea{
+    background-color:white;
+    text-align:center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.greyarea p{
+    font-size:10px;
+}
+
+
+
+.greytext{
+    color:grey;
+    font-family:Garamond;
+    font-size:14px;
+}
+
+.ads{
+    background-color:white;
+    text-align:center;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.ads h2{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:16px;
+}
+
+/* Container holding the image and the text */
+.container {
+    position: relative;
+  }
+  
+
+.wrapper2 {
+overflow: hidden; /* add this to contain floated children */
+}
+.first {
+    width:200px;
+    float:left; /* add this */
+    margin-left:25%;
+
+}
+.second {
+    width:200px;
+    float: right; /* add this */
+    margin-right:25%;
+}
+
+.second{
+    position: relative;
+}
+
+/* Style the navigation bar */
+.navbar {
+    width: 100%;
+    background-color: #f8f5f4;
+    overflow: auto;
+    position:relative;
+  }
+  
+  /* Navbar links */
+  .navbar a {
+    float: left;
+    text-align: center;
+    padding: 12px;
+    color:black;
+    text-decoration: none;
+    font-size: 17px;
+  }
+
+.navbar{
+    overflow: hidden; /* add this to contain floated children */
+    float:center;
+}
+
+    .navbarleft {
+        float:left; /* add this */
+    
+    }
+    .navbarright {
+        float: right; /* add this */
+    }
+
+.navbar .img{
+    float:center;
+}
+
+.one:hover{
+    color:grey;
+}
+
+.two:hover{
+    color:grey;
+}
+
+.three:hover{
+    color:grey;
+}
+
+.four:hover{
+    color:grey;
+}
+
+.dropdownmenu{
+    overflow: hidden; /* add this to contain floated children */
+    padding-left:10px;
+}
+
+.filter{
+    float:left;
+}
+    .one{
+        float:left; /* add this */
+    
+    }
+    .two {
+        float: left; /* add this */
+    }
+
+    .three{
+        float:left;
+    }
+
+    .four{
+        float:left;
+    }
+
+.dropdownmenu{
+    font-size:11px;
+}
+
+.icons{
+    text-align:center;
+}
+
+

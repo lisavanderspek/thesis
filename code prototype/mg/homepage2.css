@@ -1,0 +1,290 @@
+body {
+    background-color:#f8f5f4;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:10px;
+  }
+
+.navbar {
+    width: 100%;
+    background-color: #f8f5f4;
+    overflow: auto;
+    position:relative;
+  }
+  
+  /* Navbar links */
+  .navbar a {
+    float: left;
+    text-align: center;
+    padding: 12px;
+    color:black;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+.navbar{
+    overflow: hidden; /* add this to contain floated children */
+    float:center;
+}
+
+.navbar icon{
+color:black;
+}
+
+    .navbarleft {
+        float:left; /* add this */
+    
+    }
+    .navbarright {
+        float: right; /* add this */
+    }
+
+.navbar .img{
+    float:center;
+}
+
+.navbar2{
+    width: 100%;
+    background-color: white;
+    overflow: auto;
+    position:relative; 
+    margin-bottom:5px;
+    color:black;
+}
+
+.navbar2{
+    overflow: hidden; /* add this to contain floated children */
+    float:center;
+    color:black;
+}
+
+.navbarone{
+    float:right;
+}
+
+.navbartwo{
+    float:right;
+}
+
+.navbarthree{
+    float:right;
+}
+
+.navbarfour{
+    float:right;
+}
+
+.logoimage{
+	margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+ 
+}
+.logo{
+    max-width:25%;
+    width:50px;
+    height:auto;
+    max-height:25%;
+    float:center;
+}
+
+
+.information{
+    text-align:center;
+    font-family:Garamond;
+    font-size:14px;
+    color:grey;
+}
+
+
+.button {
+    border: none;
+    background-color:black;
+    color:white;
+    border-radius:4px;
+    border-color:black;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 10px 10px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:10px;
+  }
+
+  input[type=submit] {
+    background-color:white;
+    color: black;
+    padding-left:50px;
+    padding-right:52px;
+    padding-top: 15px;
+    padding-bottom:15px;
+    margin: px 0;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    float:center;
+    text-align:center;
+    font-size:15px;
+    font-weight:700;
+    font-family:monospace;
+}
+
+input[type=submit]:hover {
+    background-color: lightgrey;
+    }
+
+    input[type=submit2] {
+        background-color:grey;
+        color: white;
+    padding-left:50px;
+    padding-right:52px;
+    padding-top: 15px;
+    padding-bottom:15px;
+    margin: px 0;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    float:center;
+    text-align:center;
+    font-size:15px;
+    font-weight:700;
+    font-family:monospace;
+    }
+    
+    input[type=submit2]:hover {
+        background-color: lightgrey;
+        }
+    
+
+.newsletter{
+    color:black;
+    background-color: white;
+    text-align:center;
+    padding-top:20px;
+    padding-bottom:20px;
+}
+
+.wrapper {
+    overflow: hidden; /* add this to contain floated children */
+    margin-top:10px;
+    margin-bottom:10px;
+
+}
+
+.left {
+    float:left; /* add this */
+    padding-left:50px;
+
+}
+
+.right {
+    float: right; /* add this */
+    padding-right:50px;
+
+    }
+
+    .wrapper2 {
+        overflow: hidden; /* add this to contain floated children */
+        }
+        .first {
+            width:200px;
+            margin-left:300px;
+            margin-right:0px;
+            float:left; /* add this */
+        
+        }
+        .second {
+            width:200px;
+            margin-left:0px;
+            margin-right:300px;
+            float: right; /* add this */
+        }
+        
+        .second{
+            position: relative;
+        }
+    
+    .left2 {
+        float:left; /* add this */
+
+    }
+
+    .right2 {
+        float:right; /* add this */
+        background-color:#C6EBFE;
+        padding-left:92.5px;
+        padding-right:170px;
+        padding-top:215px;
+        padding-bottom:194px;
+        }
+
+
+
+        .support{
+            text-align:center;
+            color:grey;
+            font-family:Verdana, Geneva, Tahoma, sans-serif;
+        
+        
+        }
+        
+        .support1{
+            text-align:center;
+           
+        }
+        
+        .support1 p{
+            color:grey;
+        }
+        
+
+
+.wrapperads {
+            overflow: hidden; /* add this to contain floated children */
+            }
+.firstads {
+                width:200px;
+                margin-left:300px;
+                margin-right:0px;
+                float:left; /* add this */
+            
+            } 
+            
+.secondads {
+                width:200px;
+                margin-left:0px;
+                margin-right:300px;
+                float: right; /* add this */
+            }
+            
+            .secondads{
+                position: relative;
+            }
+
+.information2{
+    text-align:center;
+    background-color:white;
+    border:2px;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top:5px;
+    padding-bottom:5px;
+}
+
+.information2 h2{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:16px;
+}
+
+.icons{
+    text-align:center;
+}
+
+
+
+            

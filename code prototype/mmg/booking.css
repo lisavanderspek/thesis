@@ -1,0 +1,326 @@
+body {
+    background-color:#f8f5f4;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:10px;
+}
+
+.header{
+    color: #3662d8;
+    padding-left:70px;
+}
+
+    .navbar {
+        width: 100%;
+        background-color: #f8f5f4;
+        overflow: auto;
+        position:relative;
+      }
+      
+      /* Navbar links */
+      .navbar a {
+        float: left;
+        text-align: center;
+        padding: 12px;
+        color:black;
+        text-decoration: none;
+        font-size: 17px;
+      }
+    
+    
+    .navbar{
+        overflow: hidden; /* add this to contain floated children */
+        float:center;
+    }
+    
+        .navbarleft {
+            float:left; /* add this */
+        
+        }
+        .navbarright {
+            float: right; /* add this */
+        }
+    
+    .navbar .img{
+        float:center;
+    }
+    
+    .logoimage{
+        margin: 0;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        margin-right: -50%;
+        transform: translate(-50%, -50%)
+     
+    }
+    .logo{
+        max-width:25%;
+        width:50px;
+        height:auto;
+        max-height:25%;
+        float:center;
+    }
+
+.flights{
+    margin-left: 10px;
+    margin-right:10px;
+    padding-left: 70px;
+    padding-right: 70px;
+
+}
+
+    .flight{
+        overflow:hidden;
+        border-radius: 10px;
+        background-color: white;
+        width:100%;
+        height:100%;
+        margin-left:auto;
+        margin-right:auto;
+        display: inline-block;
+        white-space: normal;
+    }
+
+
+.flights img {
+    width: 175px;
+    height: auto;
+    max-width: 25%;
+    float: left;
+    padding: 4px;
+    margin: 4px 0 4px 4px;
+    float:left;
+}
+
+.centered{
+    text-align:center;    
+}
+
+.floatright{
+    text-align:right;
+    padding-right:15px;
+    padding-left:15px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:10px;
+}
+
+
+.flightprice button{
+    width:200px;
+    margin-left:150px;
+    margin-right:150px;
+    background-color: #3662d8;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    float:right;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:10px;
+}
+
+
+.flightprice button:hover {
+    background-color: lightgrey;
+    }
+    
+.fa{
+	color:black;
+}
+.flights{
+    white-space: nowrap;
+}
+.flightdetails{
+    float:center;
+    width: calc(100%-200px);
+    margin-left:150px;
+    margin-right:150px;
+    padding-left: 20px;
+    padding-right:20px;
+}
+
+.ads{
+        border-radius: 10px;
+        background-color: white;
+        width:100%;
+        height:100%;
+        margin-left:auto;
+        margin-right:auto;
+        display: inline-block;
+        white-space: normal;
+}
+
+.priceinformation {
+    text-align:center;
+
+    border-radius: 10px;
+    width:80%;
+    height:100%;
+    margin-left:auto;
+    margin-right:auto;
+    white-space: normal;
+}
+
+.totalprice{
+    float:left;
+    margin-left: 200px;
+    margin-right: 100px;
+}
+
+td{
+    height:20px;
+    text-align:left;
+
+}
+
+table{
+    width:350px;
+}
+
+th {
+    background-color:#04AA6D;
+    color:white;
+}
+
+.header{
+    overflow:hidden;
+        border-radius: 10px;
+        background-color: white;
+       
+}
+
+a:link {
+    color:#3662d8;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color:#3662d8;
+    background-color: transparent;
+    text-decoration: none;
+  }
+
+  input[type=submit] {
+    width:200px;
+    margin-left:150px;
+    margin-right:150px;
+    background-color: #3662d8;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    float:right;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:10px;
+}
+
+input[type=submit]:hover {
+    background-color: lightgrey;
+    }
+
+
+
+    .support1{
+        text-align:center;
+        background-color:white;
+       
+    }
+    
+    .support1 p{
+        color:grey;
+        background-color:white;
+    }
+    
+    
+    .support{
+        text-align:center;
+        color:grey;
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+
+    .icons{
+        text-align:center;
+    }
+    
+    .support2{
+        text-align:Center;
+    }
+    
+    .support2 p{
+        color:grey;
+    }
+    
+
+    .navbar2{
+        width: 100%;
+        background-color: white;
+        overflow: auto;
+        position:relative; 
+        margin-bottom:5px;
+    }
+    
+    .navbar2{
+        overflow: hidden; /* add this to contain floated children */
+        float:center;
+    }
+    
+    .navbarone{
+        float:right;
+    }
+    
+    .navbartwo{
+        float:right;
+    }
+    
+    .navbarthree{
+        float:right;
+    }
+    
+    .navbarfour{
+        float:right;
+    }
+
+    .priceinformation{
+            text-align:center;
+            font-family:Garamond;
+            font-size:14px;
+            color:grey;
+            padding-left:300px;
+            padding-right:300px;
+        }
+
+        .wrapper2 {
+overflow: hidden; /* add this to contain floated children */
+}
+.first {
+    width:200px;
+    margin-left:300px;
+    margin-right:0px;
+    float:left; /* add this */
+
+}
+.second {
+    width:200px;
+    margin-left:0px;
+    margin-right:300px;
+    float: right; /* add this */
+}
+
+.ads a{
+    font-size:12px;
+}
+
+.ads {
+    padding-bottom:4px;
+    padding-left:10px;
+}
+
+.ads p{
+    color:grey;
+}

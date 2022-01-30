@@ -1,0 +1,72 @@
+Jade
+Task 1 27.133 MC 
+Task 2 14.357 MC 
+Task 3 13.536 MC 
+Task 4 3.71 MC 
+Nina
+Task 1 9.877 MC 
+Task 2 3.958 MC 
+Task 3 9.518 MC 
+Task 4 4.609 MC 
+JeanDenniekJan
+Task 1 16.374 MC 
+Task 2 4.147 MC 
+Task 3 10.022 MC 
+Task 4 3.115 MC 
+Bas van der Spek
+Task 1 20.812 MC 
+Task 2 14.313 MC 
+Task 3 4.876 MC 
+Task 4 6.426 MC 
+Adriaan
+Task 1 11.159 MC 
+Task 2 2.846 MC 
+Task 3 6.696 MC 
+Task 4 2.375 MC 
+juna
+Task 1 5.2 MC 
+Task 2 7.773 MC 
+Task 3 1.314 MC 
+Task 4 4.129 MC 
+louis
+Task 1 3.342 MC 
+Task 2 9.547 MC 
+Task 3 10.18 MC 
+Task 4 1.997 MC 
+Stievam
+Task 1 146.772 MC 
+Task 2 12.571 MC 
+Task 3 3.787 MC 
+Task 4 21.82 MC 
+jteunissen
+Task 1 23.42 MC 
+Task 2 48.771 MC 
+Task 3 7.206 MC 
+Task 4 11.447 MC 
+Verajetkroket
+Task 1 34.153 MC 
+Task 2 55.53 MC 
+Task 3 0.961 MC 
+Task 4 2.544 MC 
+Renske
+Task 1 30.835 MC 
+Task 2 9.05 MC 
+Task 3 5.911 MC 
+Task 4 10.445 MC 
+Stefan
+Task 1 37.152 MC 
+Task 2 5.459 MC 
+Task 3 7.618 MC 
+Task 4 6.009 MC 
+Rene
+Task 1 21.662 MC 
+Task 2 14.591 MC 
+Task 3 1.044 MC 
+Task 4 6.915 MC 
+leafy7
+Task 1 16.926 MC 
+Task 2 6.878 MC 
+Task 3 2.21 MC 
+Task 4 3.799 MC 
+xx
+Task 1 51.484 MC 

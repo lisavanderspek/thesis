@@ -1,0 +1,365 @@
+body {
+    background-color:#f8f5f4;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:10px;
+}
+
+
+.information{
+    margin-left:14px;
+}
+
+.support{
+        text-align:center;
+        color:grey;
+}
+
+.fa{
+	color:black;
+}
+
+.navbar {
+    width: 100%;
+    background-color: #f8f5f4;
+    overflow: auto;
+    position:relative;
+  }
+  
+  /* Navbar links */
+  .navbar a {
+    float: left;
+    text-align: center;
+    padding: 12px;
+    color:black;
+    text-decoration: none;
+    font-size: 17px;
+  }
+
+
+.navbar{
+    overflow: hidden; /* add this to contain floated children */
+    float:center;
+}
+
+    .navbarleft {
+        float:left; /* add this */
+    
+    }
+    .navbarright {
+        float: right; /* add this */
+    }
+
+.navbar .img{
+    float:center;
+}
+
+.logoimage{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+ 
+}
+.logo{
+    max-width:25%;
+    width:50px;
+    height:auto;
+    max-height:25%;
+    float:center;
+}
+
+
+form {
+    text-align:center;
+}
+
+h1 { 
+    text-align:center;
+}
+
+.url{
+    color:black;
+}
+
+.totalprice{ border-collapse: collapse; float:left; margin-left:55px; }
+.totalprice caption { text-align: left; font-variant: small-caps; font-size: 1.3em; }
+.totalprice th { text-align: left; font-weight: bold; padding: .5em; }
+.totalprice td {padding: .5em; }
+.totalprice tfoot { font-size: 1.0rem; text-align: left; }
+.totalprice thead { font-size: 1.0rem; text-align: left; }
+.totalprice tbody { font-size: 1.0rem; text-align: left;  border-bottom: 1px solid lightgrey;}
+
+.flightprice button{
+    width:200px;
+    margin-left:150px;
+    margin-right:150px;
+    background-color:#3662d8;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    float:center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:10px;
+}
+
+.flightprice button:hover {
+    background-color: lightgrey;
+    }
+
+.totalpriceoverview{
+    margin-top:10px;
+    overflow:hidden;
+    border-radius: 5px;
+    background-color: white;
+	width:30%;
+    float:center;
+	padding-left:50px;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    text-align:center;
+}
+
+.table{
+    float:center;
+    font-size:10px;
+}
+
+td{
+    height:20px;
+    text-align:left;
+    font-size:10px;
+
+}
+
+
+.journeyoverview{
+    float:left;
+    width: 70%;
+	overflow-x:hidden;
+}
+.wrapper{
+    overflow:hidden;
+	width:100%;
+	
+}
+.outwardflight{
+    overflow:hidden;
+    border-radius: 5px;
+    background-color:white;
+    margin-left:10px;
+    margin-right:10px;
+    padding-left:50px;
+    padding-right:50px;
+	
+}
+
+.inwardflight{
+    overflow:hidden;
+    border-radius: 5px;
+    background-color: white;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-left:50px;
+    padding-right:50px;
+}
+
+.ads{
+    overflow:hidden;
+    border-radius: 5px;
+    background-color:white;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-left:50px;
+    padding-right:50px;
+}
+
+.cars{
+    overflow:hidden;
+    float: left;
+    width: 45%;
+    padding: 1.0em;
+    border: black 5px;
+    text-align:center;
+    border-width: 1px;
+}
+
+.cars p{
+    color:grey;
+}
+
+img.scaled{
+    width:100%;
+}
+
+.autotoevoegen button{
+    width:200px;
+    margin-left:150px;
+    margin-right:150px;
+    background-color: #3662d8;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    float:center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:10px;
+}
+
+.autotoevoegen button:hover{
+    background-color:lightgrey;
+}
+
+.travelupdate{
+    background-color:#343b53;
+    overflow:hidden;
+    border-radius: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-left:50px;
+    padding-right:50px;
+    color:white;
+}
+
+.travelupdate .fa{
+    color:white;
+}
+
+.changeflights{
+    overflow:hidden;
+    border-radius: 5px;
+    background-color:white;
+    margin-left:10px;
+    margin-right:10px;
+    padding-left:50px;
+    padding-right:50px;
+}
+
+a:link {
+  color:#3662d8;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color:#3662d8;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+input[type=submit] {
+    width:200px;
+    margin-left:150px;
+    margin-right:150px;
+    background-color: #3662d8;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    float:center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:10px;
+}
+
+input[type=submit]:hover {
+    background-color: lightgrey;
+    }
+
+
+
+    .support1{
+        text-align:center;
+        background-color:white;
+       
+    }
+    
+    .support1 p{
+        color:grey;
+        background-color:white;
+    }
+    
+    
+    .support{
+        text-align:center;
+        color:grey;
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+
+    .icons{
+        text-align:center;
+    }
+    
+    .support2{
+        text-align:Center;
+    }
+    
+    .support2 p{
+        color:grey;
+    }
+    
+
+    .navbar2{
+        width: 100%;
+        background-color: white;
+        overflow: auto;
+        position:relative; 
+        margin-bottom:5px;
+    }
+    
+    .navbar2{
+        overflow: hidden; /* add this to contain floated children */
+        float:center;
+    }
+    
+    .navbarone{
+        float:right;
+    }
+    
+    .navbartwo{
+        float:right;
+    }
+    
+    .navbarthree{
+        float:right;
+    }
+    
+    .navbarfour{
+        float:right;
+    }
+
+    .priceinformation{
+            text-align:center;
+            font-family:Garamond;
+            font-size:14px;
+            color:grey;
+            padding-left:300px;
+            padding-right:300px;
+        }
+
+        .wrapper2 {
+overflow: hidden; /* add this to contain floated children */
+}
+.first {
+    width:200px;
+    margin-left:300px;
+    margin-right:0px;
+    float:left; /* add this */
+
+}
+.second {
+    width:200px;
+    margin-left:0px;
+    margin-right:300px;
+    float: right; /* add this */
+}
+

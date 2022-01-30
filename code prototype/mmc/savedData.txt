@@ -1,0 +1,85 @@
+Tim
+Task 1 89.477 MMC 
+Task 2 9.765 MMC 
+Task 3 9.45 MMC 
+Task 4 17.831 MMC 
+Jip Manshande
+Task 1 13.005 MMC 
+Task 2 6.182 MMC 
+Task 3 7.551 MMC 
+Task 4 6.743 MMC 
+
+Mariska
+Task 1 17.068 MMC 
+Task 2 11.505 MMC 
+Task 3 2.19 MMC 
+Task 4 2.697 MMC 
+Madelief
+Task 1 23.769 MMC 
+Task 2 14.982 MMC 
+Task 3 2.626 MMC 
+Task 4 3.142 MMC 
+jeroenham
+Task 1 31.401 MMC 
+Task 2 7.147 MMC 
+Task 3 6.803 MMC 
+Task 4 6.906 MMC 
+rochelle.villanihans
+Task 1 30.669 MMC 
+Task 2 27.578 MMC 
+Task 3 5.086 MMC 
+Task 4 20.63 MMC 
+ParticipantSmith
+Task 1 64.923 MMC 
+Task 2 28.406 MMC 
+Task 3 17.954 MMC 
+Task 4 17.178 MMC 
+Topsvoort
+Task 1 40.454 MMC 
+Task 2 23.053 MMC 
+Task 3 15.817 MMC 
+Task 4 44.746 MMC 
+Mijntje
+Task 1 14.653 MMC 
+Task 2 17.727 MMC 
+Task 3 7.614 MMC 
+Task 4 10.115 MMC 
+Kelvin
+Task 1 15.308 MMC 
+Task 2 10.215 MMC 
+Task 3 1.699 MMC 
+Task 4 4.565 MMC 
+Alieke
+Task 1 29.49 MMC 
+Task 2 12.579 MMC 
+Task 3 1.294 MMC 
+Task 4 5.427 MMC 
+sam
+Task 1 43.849 MMC 
+
+Task 1 56.049 MMC 
+Task 2 8.263 MMC 
+Task 3 12.961 MMC 
+Task 4 4.987 MMC 
+anon007
+Task 1 5.973 MMC 
+Task 2 4.695 MMC 
+Task 3 4.456 MMC 
+Task 4 5.203 MMC 
+HGroot
+Task 1 23.262 MMC 
+Task 2 11.461 MMC 
+Task 3 2.997 MMC 
+Task 4 5.778 MMC 
+Bgirl
+Task 1 12.54 MMC 
+Task 2 4.734 MMC 
+Task 3 0.897 MMC 
+Task 4 10.189 MMC 
+casd
+Task 1 9.049 MMC 
+Task 4 4.721 MMC 
+r
+Task 1 2.207 MMC 
+Task 4 2.127 MMC 
+xTask 3 193.772 MMC 

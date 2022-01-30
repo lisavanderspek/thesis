@@ -1,0 +1,85 @@
+ Sophia
+Task 1 6.769 CT 
+Task 2 8.828 CT 
+Task 3 4.819 CT 
+Task 4 5.382 CT 
+FransMelvinLes
+Task 1 12.51 CT 
+Task 2 9.18 CT 
+Task 3 7.178 CT 
+Task 4 16.401 CT 
+BHL
+Task 1 32.69 CT 
+Task 2 9.044 CT 
+Task 3 3.215 CT 
+Task 4 22.14 CT 
+Cindy
+Task 1 4.712 CT 
+Task 2 4.952 CT 
+Task 3 1.657 CT 
+Task 4 4.122 CT 
+brendanbrendan
+Task 1 21.356 CT 
+Task 2 8.391 CT 
+Task 3 0.45 CT 
+Task 4 17.776 CT 
+Ruud
+Task 1 21.953 CT 
+Task 2 13.712 CT 
+Task 3 5.737 CT 
+Task 4 5.24 CT 
+Erik
+Task 1 50.549 CT 
+Task 2 22.97 CT 
+Task 3 14.17 CT 
+Task 4 30.322 CT 
+BakkerI
+Task 1 73.179 CT 
+BakkerI
+Task 1 10.521 CT 
+Task 2 10.474 CT 
+Task 3 4.222 CT 
+Task 4 12.158 CT 
+Harald
+Task 1 13.757 CT 
+Task 2 6.919 CT 
+Task 3 5.495 CT 
+Task 4 5.874 CT 
+Krekel
+Task 1 167.396 CT 
+Task 2 38.801 CT 
+Task 3 10.646 CT 
+Task 4 79.516 CT 
+Huub
+Task 1 58.175 CT 
+Task 2 5.077 CT 
+Task 3 5.259 CT 
+Task 4 15.051 CT 
+Timo
+Task 1 36.686 CT 
+Task 2 3.884 CT 
+Task 3 2.599 CT 
+Task 4 3.529 CT 
+Sjoerd
+Task 1 11.555 CT 
+Task 2 14.263 CT 
+Task 3 2.827 CT 
+Task 4 6.049 CT 
+Gert-Jan
+Task 1 17.321 CT 
+Task 2 12.337 CT 
+Task 3 43.458 CT 
+Task 4 64.15 CT 
+R.
+Task 1 14.01 CT 
+svennie
+Task 1 36.484 CT 
+Task 2 15.01 CT 
+Task 3 7.866 CT 
+Task 4 9.904 CT 
+charlotte
+Task 1 18.597 CT 
+Task 2 20.188 CT 
+Task 3 7.401 CT 
+Task 4 26.548 CT 
+lisax

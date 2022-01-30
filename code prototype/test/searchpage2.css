@@ -1,0 +1,353 @@
+body {
+    background-color:#f8f5f4;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:10px;
+  }
+
+
+    .navbar2{
+        width: 100%;
+        background-color: white;
+        overflow: auto;
+        position:relative; 
+        margin-bottom:5px;
+    }
+    
+    .navbar2{
+        overflow: hidden; /* add this to contain floated children */
+        float:center;
+    }
+    
+    .navbarone{
+        float:right;
+    }
+    
+    .navbartwo{
+        float:right;
+    }
+    
+    .navbarthree{
+        float:right;
+    }
+    
+    .navbarfour{
+        float:right;
+    }
+    
+.img{
+    border-radius:10px;
+}
+.navbar {
+    width: 100%;
+    background-color: #f8f5f4;
+    overflow: auto;
+    position:relative;
+  }
+  
+  /* Navbar links */
+  .navbar a {
+    float: left;
+    text-align: center;
+    padding: 12px;
+    color:black;
+    text-decoration: none;
+    font-size: 17px;
+  }
+
+
+.navbar{
+    overflow: hidden; /* add this to contain floated children */
+    float:center;
+}
+
+    .navbarleft {
+        float:left; /* add this */
+    
+    }
+    .navbarright {
+        float: right; /* add this */
+    }
+
+.navbar .img{
+    float:center;
+}
+
+.logoimage{
+	margin: 0;
+    position: absolute;
+	
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+ 
+}
+.logo{
+    max-width:25%;
+    width:200px;
+    height:auto;
+    max-height:25%;
+    float:center;
+}
+
+input[type=select]{
+    font-family: 'Times New Roman', Times, serif;
+   width: 250px;
+padding-bottom:10px;
+padding-top:10px;
+float:left;
+}
+
+input[type=text], select {
+   width: 250px;
+padding-bottom:10px;
+padding-top:10px;
+display: inline-block;
+border: 1px solid rgb(5, 5, 5);
+border-radius: 4px;
+box-sizing: border-box;
+ font-size:10px;
+}
+
+input[type=date], select {
+    width: 250px;
+padding-bottom:10px;
+padding-top:10px;
+    display: inline-block;
+    border: 1px solid rgb(5, 5, 5);
+    border-radius: 4px;
+    box-sizing: border-box;
+ font-size:10px;
+    }
+
+input[type=submit] {
+background-color: #3662d8;
+color: white;
+padding:10px;
+padding-left:20px;
+padding-right:20px;
+margin: 8px 0;
+border: none;
+border-radius: 4px;
+cursor: pointer;
+text-align:center;
+ font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:10px;
+
+
+}
+
+input[type=date] {
+    text-align:center;
+ font-size:10px;
+}
+
+input[type=text] {
+
+    text-align:center;
+ font-size:10px;
+}
+
+
+select {
+    text-align:center;
+}
+input[type=submit]:hover {
+background-color: lightgrey;
+ font-size:10px;
+}
+
+.greyarea{
+overflow:hidden;
+border-radius: 5px;
+border:1px;
+border-style:solid;
+margin-left:350px;
+margin-right:350px;
+padding:10px;
+text-align:center;
+font-size:10px;
+background-color:white;
+
+}
+
+.greyarea p{
+    font-weight:700;
+    
+}
+
+
+label{
+display: block;
+}
+
+input,label{
+margin: .4rem 0;
+}
+
+.wrapper{
+    overflow:hidden;
+}
+
+.left{
+
+    float:left; /* add this */
+    padding-left:10px;
+    text-align:center;
+
+}
+.right {
+
+    float: right; /* add this */
+    padding-right:10px;
+    text-align:center;
+}
+
+.right{
+    position: relative;
+}
+
+.center{
+    padding-left:10px;
+    padding-right:10px;
+}
+
+.information{
+    background-color:white;
+    text-align:center;
+}
+
+
+.support1{
+    text-align:center;
+    background-color:white;
+   
+}
+
+.support1 p{
+    color:grey;
+    background-color:white;
+}
+
+
+.support{
+    text-align:center;
+    color:grey;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.support1{
+    text-align:center;
+}
+
+
+.icons{
+    text-align:center;
+}
+
+.support2{
+    text-align:Center;
+}
+
+.support2 p{
+    color:grey;
+}
+
+.text{
+    overflow:hidden;
+}
+
+
+.greyarea u{
+    color:#3662d8;
+}
+
+
+.textright {
+    float:right;
+}
+
+
+input[type=submit2] {
+    background-color:#e7edfd;
+    color: #3662d8;
+    padding-top: 10px;
+    padding-bottom:10px;
+    margin: 5px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    float:left;
+    text-align:center;
+    font-weight:800;
+}
+
+.button:visited {
+    background-color:#e7edfd;
+    color:#3662d8;
+}
+
+.button:focus {
+    background-color:#e7edfd;
+    color:#3662d8;
+}
+
+.button:hover {
+    background-color:#e7edfd;
+    color:#3662d8;
+}
+
+.button:active {
+    background-color:#e7edfd;
+    color:#3662d8;
+}
+
+label{
+    font-size:10px;
+    color:black;
+}
+
+.button {
+    background-color: #e7edfd;
+    color:#3662d8;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    text-align:left;
+    font-size:10px;
+    font-weight:800;
+    }
+
+
+    .button2 {
+        background-color:white;
+        color: black;
+        padding-top: 10px;
+        padding-bottom:10px;
+        margin: 5px;
+        border: none;
+        border-radius: 20px;
+        cursor: pointer;
+        float:left;
+        text-align:center;
+        font-size:10px;
+        font-weight:800;
+        }
+
+
+.buttons{
+    overflow:hidden;
+}
+
+.Retour{
+
+    float:left; /* add this */
+
+}
+.Other{
+    float: left; /* add this */
+
+
+}
+

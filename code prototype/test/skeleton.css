@@ -1,0 +1,168 @@
+@charset "utf-8";
+/* CSS Document */
+
+.skeleton1:empty 
+{position: relative; 
+	box-sizing: content-box; 
+	height: 80px; 
+	background-color: #cccccc; 
+	border-radius: 5px 5px 5px 5px; 
+	background-image: 
+		linear-gradient( #ffffff 53px, transparent 0 ),
+		linear-gradient( #ffffff 13px, transparent 0 ),
+		linear-gradient( #ffffff 13px, transparent 0 ),
+		linear-gradient( #ffffff 13px, transparent 0 ),
+		linear-gradient( #ec1c22 53px, transparent 0 );
+		/*radial-gradient( circle 25px at 25px 25px, #ffffff 100%, transparent 0 );*/
+	background-repeat: repeat-y;
+	background-size: 20% 80px,45% 133px,45% 133px,45% 133px,15% 80px;
+	background-position: 98% 12px,50% 12px,50% 32px,50% 52px,2% 14px;}
+
+.skeleton1:empty:before 
+{content: ' '; 
+	position: absolute; 
+	z-index: 1000; 
+	width: 100%; 
+	height: 80px;
+	-webkit-mask-image: linear-gradient( 100deg, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.5) 50%, rgba(255, 255, 255, 0) 100% ); 
+	-webkit-mask-repeat : repeat-y; 
+	-webkit-mask-size : 250px 400px; 
+	-webkit-mask-position: 0% 0;
+	background-image: 
+		linear-gradient( rgba(102,102,102,1) 53px, transparent 0 ),
+		linear-gradient( rgba(102,102,102,1) 13px, transparent 0 ),
+		linear-gradient( rgba(102,102,102,1) 13px, transparent 0 ),
+		linear-gradient( rgba(102,102,102,1) 13px, transparent 0 ),
+		linear-gradient( rgba(102,102,102,1) 53px, transparent 0 );
+		/*radial-gradient( circle 25px at 25px 25px, rgba(102,102,102,1) 99%, transparent 0 );*/
+	background-repeat: repeat-y;
+	background-size: 20% 80px,45% 133px,45% 133px,45% 133px,15% 80px;
+	background-position: 98% 12px,50% 12px,50% 32px, 50% 52px,2% 14px;
+	animation: shineForSkeleton-xtrx05r7h4d 4s infinite;}	
+
+@keyframes shineForSkeleton-xtrx05r7h4d {to {-webkit-mask-position: 120% 0}}
+
+
+.skeleton2:empty 
+{position: relative; 
+	box-sizing: content-box; 
+	height: 80px; 
+	background-color: #cccccc; 
+	border-radius: 5px 5px 5px 5px; 
+	background-image: 
+		linear-gradient( #ffffff 53px, transparent 0 ),
+		linear-gradient( #ffffff 13px, transparent 0 ),
+		linear-gradient( #ffffff 13px, transparent 0 ),
+		linear-gradient( #ffffff 13px, transparent 0 ),
+		linear-gradient( #34c946 53px, transparent 0 );
+		/*radial-gradient( circle 25px at 25px 25px, #ffffff 100%, transparent 0 );*/
+	background-repeat: repeat-y;
+	background-size: 20% 80px,45% 133px,45% 133px,45% 133px,15% 80px;
+	background-position: 98% 12px,50% 12px,50% 32px,50% 52px,2% 14px;}
+
+.skeleton2:empty:before 
+{content: ' '; 
+	position: absolute; 
+	z-index: 1000; 
+	width: 100%; 
+	height: 80px;
+	-webkit-mask-image: linear-gradient( 100deg, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.5) 50%, rgba(255, 255, 255, 0) 100% ); 
+	-webkit-mask-repeat : repeat-y; 
+	-webkit-mask-size : 250px 400px; 
+	-webkit-mask-position: 0% 0;
+	background-image: 
+		linear-gradient( rgba(102,102,102,1) 53px, transparent 0 ),
+		linear-gradient( rgba(102,102,102,1) 13px, transparent 0 ),
+		linear-gradient( rgba(102,102,102,1) 13px, transparent 0 ),
+		linear-gradient( rgba(102,102,102,1) 13px, transparent 0 ),
+		linear-gradient( rgba(102,102,102,1) 53px, transparent 0 );
+		/*radial-gradient( circle 25px at 25px 25px, rgba(102,102,102,1) 99%, transparent 0 );*/
+	background-repeat: repeat-y;
+	background-size: 20% 80px,45% 133px,45% 133px,45% 133px,15% 80px;
+	background-position: 98% 12px,50% 12px,50% 32px, 50% 52px,2% 14px;
+	animation: shineForSkeleton-xtrx05r7h4d 4s infinite;}
+
+@keyframes shineForSkeleton-xtrx05r7h4d {to {-webkit-mask-position: 120% 0}}
+
+.skeleton3:empty 
+{position: relative; 
+	box-sizing: content-box; 
+	height: 80px; 
+	background-color: #cccccc; 
+	border-radius: 5px 5px 5px 5px; 
+	background-image: 
+		linear-gradient( #ffffff 53px, transparent 0 ),
+		linear-gradient( #ffffff 13px, transparent 0 ),
+		linear-gradient( #ffffff 13px, transparent 0 ),
+		linear-gradient( #ffffff 13px, transparent 0 ),
+		linear-gradient( #033382 53px, transparent 0 );
+		/*radial-gradient( circle 25px at 25px 25px, #ffffff 100%, transparent 0 );*/
+	background-repeat: repeat-y;
+	background-size: 20% 80px,45% 133px,45% 133px,45% 133px,15% 80px;
+	background-position: 98% 12px,50% 12px,50% 32px,50% 52px,2% 14px;}
+
+.skeleton3:empty:before 
+{content: ' '; 
+	position: absolute; 
+	z-index: 1000; 
+	width: 100%; 
+	height: 80px;
+	-webkit-mask-image: linear-gradient( 100deg, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.5) 50%, rgba(255, 255, 255, 0) 100% ); 
+	-webkit-mask-repeat : repeat-y; 
+	-webkit-mask-size : 250px 400px; 
+	-webkit-mask-position: 0% 0;
+	background-image: 
+		linear-gradient( rgba(102,102,102,1) 53px, transparent 0 ),
+		linear-gradient( rgba(102,102,102,1) 13px, transparent 0 ),
+		linear-gradient( rgba(102,102,102,1) 13px, transparent 0 ),
+		linear-gradient( rgba(102,102,102,1) 13px, transparent 0 ),
+		linear-gradient( rgba(102,102,102,1) 53px, transparent 0 );
+		/*radial-gradient( circle 25px at 25px 25px, rgba(102,102,102,1) 99%, transparent 0 );*/
+	background-repeat: repeat-y;
+	background-size: 20% 80px,45% 133px,45% 133px,45% 133px,15% 80px;
+	background-position: 98% 12px,50% 12px,50% 32px, 50% 52px,2% 14px;
+	animation: shineForSkeleton-xtrx05r7h4d 4s infinite;}	
+
+@keyframes shineForSkeleton-xtrx05r7h4d {to {-webkit-mask-position: 120% 0}}
+
+.skeleton4:empty 
+{position: relative; 
+	box-sizing: content-box; 
+	height: 80px; 
+	background-color: #cccccc; 
+	border-radius: 5px 5px 5px 5px; 
+	background-image: 
+		linear-gradient( #ffffff 53px, transparent 0 ),
+		linear-gradient( #ffffff 13px, transparent 0 ),
+		linear-gradient( #ffffff 13px, transparent 0 ),
+		linear-gradient( #ffffff 13px, transparent 0 ),
+		linear-gradient( #033382 53px, transparent 0 );
+		/*radial-gradient( circle 25px at 25px 25px, #ffffff 100%, transparent 0 );*/
+	background-repeat: repeat-y;
+	background-size: 20% 80px,45% 133px,45% 133px,45% 133px,15% 80px;
+	background-position: 98% 12px,50% 12px,50% 32px,50% 52px,2% 14px;}
+
+.skeleton4:empty:before 
+{content: ' '; 
+	position: absolute; 
+	z-index: 1000; 
+	width: 100%; 
+	height: 80px;
+	-webkit-mask-image: linear-gradient( 100deg, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.5) 50%, rgba(255, 255, 255, 0) 100% ); 
+	-webkit-mask-repeat : repeat-y; 
+	-webkit-mask-size : 250px 400px; 
+	-webkit-mask-position: 0% 0;
+	background-image: 
+		linear-gradient( rgba(102,102,102,1) 53px, transparent 0 ),
+		linear-gradient( rgba(102,102,102,1) 13px, transparent 0 ),
+		linear-gradient( rgba(102,102,102,1) 13px, transparent 0 ),
+		linear-gradient( rgba(102,102,102,1) 13px, transparent 0 ),
+		linear-gradient( rgba(102,102,102,1) 53px, transparent 0 );
+		/*radial-gradient( circle 25px at 25px 25px, rgba(102,102,102,1) 99%, transparent 0 );*/
+	background-repeat: repeat-y;
+	background-size: 20% 80px,45% 133px,45% 133px,45% 133px,15% 80px;
+	background-position: 98% 12px,50% 12px,50% 32px, 50% 52px,2% 14px;
+	animation: shineForSkeleton-xtrx05r7h4d 4s infinite;}	
+
+@keyframes shineForSkeleton-xtrx05r7h4d {to {-webkit-mask-position: 120% 0}}
+

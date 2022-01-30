@@ -1,0 +1,70 @@
+Rientje
+Task 1 28.257 MMG 
+Task 2 20.654 MMG 
+Task 3 8.216 MMG 
+Task 4 14.996 MMG 
+janine
+Task 1 5.089 MMG 
+
+Task 1 14.878 MMG 
+Task 2 14.36 MMG 
+Task 3 6.2 MMG 
+Task 4 3.585 MMG 
+van der Spek
+Task 1 16.026 MMG 
+Task 2 11.129 MMG 
+Task 3 106.318 MMG 
+Task 4 14.592 MMG 
+Timo
+Task 1 3.901 MMG 
+Task 2 4.811 MMG 
+Task 3 8.919 MMG 
+Task 4 3.355 MMG 
+Noa
+Task 1 18.63 MMG 
+Task 2 8.91 MMG 
+Task 3 5.068 MMG 
+Task 4 3.007 MMG 
+Linda
+Task 1 11.613 MMG 
+Task 2 9.673 MMG 
+Task 3 6.467 MMG 
+Bert
+Task 1 7.383 MMG 
+Task 2 8.991 MMG 
+Task 3 6.91 MMG 
+Task 4 17.321 MMG 
+ArneTask 2 9.463 MMG 
+Task 4 5.453 MMG 
+odette
+Task 1 25.93 MMG 
+Task 2 45.296 MMG 
+Task 3 15.748 MMG 
+Task 4 9.541 MMG 
+casper
+Task 1 10.071 MMG 
+Task 2 6.11 MMG 
+Task 3 1.979 MMG 
+Task 4 3.276 MMG 
+Joëlla
+Task 1 65.999 MMG 
+Task 2 14.547 MMG 
+Task 3 4.788 MMG 
+Task 4 2.524 MMG 
+Job
+Task 1 44.263 MMG 
+
+Task 1 2045.855 MMG 
+Task 2 7.064 MMG 
+Task 3 1.159 MMG 
+Task 4 2.833 MMG 
+abc123
+Task 1 8.987 MMG 
+Task 2 12.235 MMG 
+Task 3 14.083 MMG 
+Task 4 6.276 MMG 
+PM
+Task 1 32.883 MMG 
+Task 2 21.551 MMG 
+Task 3 10.415 MMG 
+Task 4 8.618 MMG 

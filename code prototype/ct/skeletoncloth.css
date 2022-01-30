@@ -1,0 +1,272 @@
+.meter {
+  box-sizing: content-box;
+  height: 15px; /* Can be anything */
+  position: relative;
+  margin: 60px 20% 20px 20%; /* Just for demo spacing */
+  background: #555;
+  border-radius: 25px;
+  padding: 3px;
+  box-shadow: inset 0 -1px 1px rgba(255, 255, 255, 0.3);
+}
+.meter > span {
+  display: block;
+  height: 100%;
+  border-top-right-radius: 8px;
+  border-bottom-right-radius: 8px;
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+  background-color: rgb(43, 194, 83);
+  background-image: linear-gradient(
+    center bottom,
+    rgb(43, 194, 83) 37%,
+    rgb(84, 240, 84) 69%
+  );
+  box-shadow: inset 0 2px 9px rgba(255, 255, 255, 0.3),
+    inset 0 -2px 6px rgba(0, 0, 0, 0.4);
+  position: relative;
+  overflow: hidden;
+}
+.meter > span:after,
+.animate > span > span {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background-image: linear-gradient(
+    -45deg,
+    rgba(255, 255, 255, 0.2) 25%,
+    transparent 25%,
+    transparent 50%,
+    rgba(255, 255, 255, 0.2) 50%,
+    rgba(255, 255, 255, 0.2) 75%,
+    transparent 75%,
+    transparent
+  );
+  z-index: 1;
+	animation:move 1s linear infinite;
+  background-size: 50px 50px;
+  border-top-right-radius: 8px;
+  border-bottom-right-radius: 8px;
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+  overflow: hidden;
+}
+
+.animate > span:after {
+  display: none;
+}
+
+@keyframes expandWidth {
+   0% { width: 0; }
+   100% { width: 100%; }
+}
+.progression{
+  animation: expandWidth 12s linear;
+}
+
+@keyframes move {
+  0% {
+    background-position: 0 0;
+  }
+  100% {
+    background-position: 50px 50px;
+  }
+}
+
+.orange > span {
+  background-image: linear-gradient(#f1a165, #f36d0a);
+}
+
+.red > span {
+  background-image: linear-gradient(#3662d8, #3662d8);
+}
+
+.nostripes > span > span,
+.nostripes > span::after {
+  background-image: none;
+}
+
+#page-wrap {
+  width: 490px;
+  margin: 80px auto;
+}
+
+
+@keyframes placeHolderShimmer {
+  0% {
+    background-position: -800px 0
+  }
+  100% {
+    background-position: 800px 0
+  }
+}
+
+
+.skeletoncloth1 {
+  animation-duration: 3s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-name: placeHolderShimmer;
+  animation-timing-function: linear;
+  background-color: #f6f7f8;
+  background: linear-gradient(to right, #9b172c 8%, #eeeeee 18%, #9b172c 33%);
+  background-size: 800%;
+}
+
+
+
+.skeletoncloth2 {
+  animation-duration: 3s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-name: placeHolderShimmer;
+  animation-timing-function: linear;
+  background-color: #f6f7f8;
+  background: linear-gradient(to right, #557872 8%, #eeeeee 18%, #557872 33%);
+  background-size: 800%;
+}
+
+.skeletoncloth3 {
+  animation-duration: 3s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-name: placeHolderShimmer;
+  animation-timing-function: linear;
+  background-color: #f6f7f8;
+  background: linear-gradient(to right, #f95c71 8%, #eeeeee 18%, #f95c71 33%);
+  background-size: 800%;
+}
+
+.skeletoncloth4 {
+  animation-duration: 3s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-name: placeHolderShimmer;
+  animation-timing-function: linear;
+  background-color: #f6f7f8;
+  background: linear-gradient(to right, #9d2642 8%, #eeeeee 18%, #9d2642 33%);
+  background-size: 800%;
+}
+
+.skeletoncloth5 {
+  animation-duration: 3s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-name: placeHolderShimmer;
+  animation-timing-function: linear;
+  background-color: #f6f7f8;
+  background: linear-gradient(to right, #fac35e 8%, #eeeeee 18%, #fac35e 33%);
+  background-size: 800%;
+}
+
+.skeletoncloth6 {
+  animation-duration: 3s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-name: placeHolderShimmer;
+  animation-timing-function: linear;
+  background-color: #f6f7f8;
+  background: linear-gradient(to right, #dec6d4 8%, #eeeeee 18%, #dec6d4 33%);
+  background-size: 800%;
+}
+
+.skeletoncloth7 {
+  animation-duration: 3s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-name: placeHolderShimmer;
+  animation-timing-function: linear;
+  background-color: #f6f7f8;
+  background: linear-gradient(to right, #bab8bd 8%, #eeeeee 18%, #bab8bd 33%);
+  background-size: 800%;
+}
+
+
+.skeletoncloth8 {
+  animation-duration: 3s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-name: placeHolderShimmer;
+  animation-timing-function: linear;
+  background-color: #f6f7f8;
+  background: linear-gradient(to right, #ffffff 8%, #eeeeee 18%, #ffffff 33%);
+  background-size: 800%;
+}
+
+.skeletoncloth9 {
+  animation-duration: 3s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-name: placeHolderShimmer;
+  animation-timing-function: linear;
+  background-color: #f6f7f8;
+  background: linear-gradient(to right, #000000 8%, #eeeeee 18%, #000000 33%);
+  background-size: 800%;
+}
+
+.skeletoncloth10 {
+  animation-duration: 3s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-name: placeHolderShimmer;
+  animation-timing-function: linear;
+  background-color: #f6f7f8;
+  background: linear-gradient(to right, #ffffff 8%, #eeeeee 18%, #ffffff 33%);
+  background-size: 800%;
+}
+
+.skeletoncloth11 {
+  animation-duration: 3s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-name: placeHolderShimmer;
+  animation-timing-function: linear;
+  background-color: #f6f7f8;
+  background: linear-gradient(to right, #c1a4d2 8%, #eeeeee 18%, #c1a4d2 33%);
+  background-size: 800%;
+}
+
+.skeletoncloth12 {
+  animation-duration: 3s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-name: placeHolderShimmer;
+  animation-timing-function: linear;
+  background-color: #f6f7f8;
+  background: linear-gradient(to right, #aadeeb 8%, #eeeeee 18%, #aadeeb 33%);
+  background-size: 800%;
+}
+
+.skeletoncloth13 {
+  animation-duration: 3s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-name: placeHolderShimmer;
+  animation-timing-function: linear;
+  background-color: #f6f7f8;
+  background: linear-gradient(to right, #caefaa 8%, #eeeeee 18%, #caefaa 33%);
+  background-size: 800%;
+}
+
+.skeletoncloth14 {
+  animation-duration: 3s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-name: placeHolderShimmer;
+  animation-timing-function: linear;
+  background-color: #f6f7f8;
+  background: linear-gradient(to right, #d73163 8%, #eeeeee 18%, #d73163 33%);
+  background-size: 800%;
+}
+.skeletoncloth15 {
+  animation-duration: 3s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-name: placeHolderShimmer;
+  animation-timing-function: linear;
+  background-color: #f6f7f8;
+  background: linear-gradient(to right, #f3593d 8%, #eeeeee 18%, #f3593d 33%);
+  background-size: 800%;
+}
